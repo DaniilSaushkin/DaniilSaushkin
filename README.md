@@ -8,3 +8,6 @@
 - ✅ EntityFramework Core - ORM
 - ✅ xUnit - Test framework
 - ✅ Git - Version Control
+
+# 🗺️ Road map 🗺️
+[![roadmap.sh](https://roadmap.sh/card/wide/668945d7501413692b9bc66e?variant=dark)](https://roadmap.sh)
